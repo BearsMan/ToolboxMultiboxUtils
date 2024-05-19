@@ -1,4 +1,4 @@
-# GWToolbox++ Plugins
+# GWToolbox++ Multiboxing Plugins
 
 ## A set of plugins for the popular Guild Wars 1 tool "GWToolbox"
 
