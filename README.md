@@ -15,7 +15,7 @@ If you don't know what GWToolbox is, see [https://gwtoolbox.com](https://gwtoolb
 1. Open **Git Bash**. Use all the following commands in **Git Bash**. 
 
 2. Clone the repository: 
-`git clone https://github.com/DubbleClick/ToolboxPlugins.git`
+`git clone https://github.com/apoguita/ToolboxMultiboxUtils.git`
 
 3. Navigate to the ToolboxPlugins folder: 
 `cd ToolboxPlugins`
