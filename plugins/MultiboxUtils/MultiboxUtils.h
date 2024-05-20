@@ -2,12 +2,13 @@
 
 #include <ToolboxPlugin.h>
 
-class SmartFollow : public ToolboxPlugin {
+class MultiboxUtils : public ToolboxPlugin {
 public:
-    const char* Name() const override { return "SmartFollow"; }
+    const char* Name() const override { return "MultiboxUtils"; }
     const char* Icon() const override { return ICON_FA_LOCK_OPEN; }
 
     virtual void Update(float) override;
+    void TargetNearestItem();
     void Initialize(ImGuiContext*, ImGuiAllocFns, HMODULE) override;
     void SignalTerminate() override;
     bool CanTerminate() override;
