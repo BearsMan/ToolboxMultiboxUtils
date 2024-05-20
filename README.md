@@ -27,3 +27,8 @@ If you don't know what GWToolbox is, see [https://gwtoolbox.com](https://gwtoolb
 6. Build the solution.
 
 7. Copy the resulting dlls in `bin/Debug` or `bin/Release` to your GWToolbox plugin folder. Default is `%USERPROFILE%/GWToolboxpp/<ComputerName>/plugins`
+
+8. plugin usage, all options toggle
+
+   /follow for Auto-Follow
+   /loot for Auto Loot
